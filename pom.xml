@@ -9,8 +9,8 @@
 		<version>2.4.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.microservicios.common</groupId>
-	<artifactId>microservicios-common</artifactId>
+	<groupId>cr.microservicios.common</groupId>
+	<artifactId>cr-microservicios-common</artifactId>
 	<version>0.0.1</version>
 	<name>microservicios-common</name>
 	<description>Librería de microservicios comunes</description>

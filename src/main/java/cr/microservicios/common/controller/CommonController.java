@@ -1,4 +1,4 @@
-package com.microservicios.common.controller;
+package cr.microservicios.common.controller;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-import com.microservicios.common.services.CommonService;
+import cr.microservicios.common.services.CommonService;
 
 public class CommonController<E, S extends CommonService<E>> {
 

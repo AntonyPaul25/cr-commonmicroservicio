@@ -1,4 +1,4 @@
-package com.microservicios.common.services;
+package cr.microservicios.common.services;
 
 import java.util.List;
 import java.util.Optional;
